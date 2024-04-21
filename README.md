@@ -1,6 +1,6 @@
 # CSS wprowadzenie zad2
 
-
+Stwórz stronę tytułową “książki”. Dodaj diva o rozmiarze 500px na 900px. W środku powinien znaleźć się nagłówek pierwszego stopnia, będący tytułem książki. Poniżej wstaw nagłówek drugiego stopnia z imieniem i nazwiskiem autora. Spraw aby tekst w całym divie był wyśrodkowany, a do tytułu dodaj margines dolny 100px;
 
 ## Getting started
 
